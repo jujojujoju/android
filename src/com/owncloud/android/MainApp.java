@@ -59,8 +59,8 @@ public class MainApp extends Application {
     // private static boolean mOnlyOnDevice = false;
 
 
-    private int staset;
-
+    private int imbyungsin;
+    private int ssdf;
     
     public void onCreate(){
         super.onCreate();
