@@ -43,7 +43,7 @@ import com.owncloud.android.lib.common.utils.Log_OC;
  */
 public class MainApp extends Application {
 
-    private static final String TAG = MainApp.class.getSimpleName();
+    private static final String TAG = MainApp.class. getSimpleName();
 
     private static final String AUTH_ON = "on";
 
@@ -57,6 +57,9 @@ public class MainApp extends Application {
     // TODO Enable when "On Device" is recovered?
     // TODO better place
     // private static boolean mOnlyOnDevice = false;
+
+
+    private int staset;
 
     
     public void onCreate(){
