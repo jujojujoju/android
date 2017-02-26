@@ -117,7 +117,7 @@ Download hier: %2$s</string>
   <string name="uploader_upload_failed_content_single">Upload van %1$s kon niet voltooid worden</string>
   <string name="uploader_upload_failed_credentials_error">Upload mislukt, u moet opnieuw inloggen</string>
   <string name="uploader_upload_failed_ssl_certificate_not_trusted">Het servercertificaat is niet vertrouwd</string>
-  <string name="uploads_view_upload_status_failed_ssl_certificate_not_trusted">Het servercertificaat is niet vertrouwd</string>
+  <string name="ssl_certificate_not_trusted">Het servercertificaat is niet vertrouwd</string>
   <string name="uploads_view_title">Uploads</string>
   <string name="uploads_view_group_current_uploads">Huidige</string>
   <string name="uploads_view_group_failed_uploads">Mislukt (tik om opnieuw te proberen)</string>
@@ -430,6 +430,7 @@ Neem contact op met uw beheerder</string>
   <string name="maintenance_mode">Server in onderhoudsmodus</string>
   <string name="failed_upload_quota_exceeded_text">Niet genoeg ruimte in dit account</string>
   <string name="auth_forbidden">Verboden authenticatie</string>
+  <string name="uploads_view_upload_status_failed_storage_not_available_error">Opslag niet beschikbaar</string>
   <plurals name="items_selected_count">
     <item quantity="one">%d geselecteerd</item>
     <item quantity="other">%d geselecteerd</item>
