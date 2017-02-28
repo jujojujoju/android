@@ -74,6 +74,7 @@ android {
     buildToolsVersion "24.0.2"
 
     defaultConfig {
+        targetSdkVersion 24
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
         // arguments to be passed to functional tests
